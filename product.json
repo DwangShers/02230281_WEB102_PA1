@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone X",
+    "description": "Latest smartphone with advanced features.",
+    "price": 799,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Laptop Y",
+    "description": "High-performance laptop suitable for professionals.",
+    "price": 1299,
+    "category": "Computers"
+  },
+  {
+    "id": 3,
+    "name": "Headphones Z",
+    "description": "Premium noise-cancelling headphones for music lovers.",
+    "price": 199,
+    "category": "Audio"
+  },
+  {
+    "id": 4,
+    "name": "Gaming Console W",
+    "description": "Next-generation gaming console with high-end graphics.",
+    "price": 499,
+    "category": "Gaming"
+  },
+  {
+    "id": 5,
+    "name": "Tablet V",
+    "description": "Versatile tablet with long battery life.",
+    "price": 399,
+    "category": "Electronics"
+  },
+  {
+    "id": 6,
+    "name": "Camera U",
+    "description": "Professional-grade camera with interchangeable lenses.",
+    "price": 899,
+    "category": "Photography"
+  },
+  {
+    "id": 7,
+    "name": "Smartwatch T",
+    "description": "Advanced smartwatch with health tracking features.",
+    "price": 299,
+    "category": "Wearables"
+  },
+  {
+    "id": 8,
+    "name": "E-reader S",
+    "description": "Lightweight e-reader with a large library of ebooks.",
+    "price": 99,
+    "category": "Books"
+  },
+  {
+    "id": 9,
+    "name": "Fitness Tracker R",
+    "description": "Compact fitness tracker with heart rate monitoring.",
+    "price": 149,
+    "category": "Health & Fitness"
+  },
+  {
+    "id": 10,
+    "name": "Home Security System Q",
+    "description": "Smart home security system with motion sensors.",
+    "price": 249,
+    "category": "Home Security"
+  },
+  {
+    "id": 11,
+    "name": "Asus A15",
+    "description": "Gaming Laptop and good for programming"
+  }
+]
