@@ -1,12 +1,17 @@
 {
   "name": "nodejs-rest-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Node.js RESTful API",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7",
+    "fs": "0.0.1-security"
+  }
 }
